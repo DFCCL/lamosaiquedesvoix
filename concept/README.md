@@ -38,6 +38,9 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 
 ### L'espace
 
+L'espace réel sera une salle obscure avec une projection au mur et, dans la projection qui deviendra l'espace virtuel, un ciel vivant en temps réel sera projeté, cela va créer un univers partager parmi les utilisateurs. L'espace est partagé autant dans l'espace réel et virtuel.
+
+
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
