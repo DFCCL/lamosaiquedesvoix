@@ -1,6 +1,6 @@
-# Prénom Nom
+# Walid Cheour
 
-* [![cheour Walid]( cheour_walid.webp)]
+![Walid Cheour]( cheour_walid.webp)
 
 
  <!--

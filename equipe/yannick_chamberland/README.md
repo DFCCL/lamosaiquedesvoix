@@ -1,6 +1,6 @@
 # Yannick Chamberland
 
-* [![Yannick Chamberland]( yannick_chamberland.webp)]
+![Yannick Chamberland]( yannick_chamberland.webp)
 
 
  <!--

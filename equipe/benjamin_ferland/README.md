@@ -1,6 +1,6 @@
-# Prénom Nom
+# Benjamin Ferland
 
-* [![Benjamin Ferland]( benjamin_ferland.webp)]
+![Benjamin Ferland]( benjamin_ferland.webp)
 
 
  <!--

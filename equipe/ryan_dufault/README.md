@@ -1,6 +1,6 @@
-# Prénom Nom
+# Ryan Dufault
 
-* [![Ryan Dufault]( ryan_dufault.webp)]
+![Ryan Dufault]( ryan_dufault.webp)
 
 
  <!--

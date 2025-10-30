@@ -6,7 +6,7 @@
 
 <!-- Méthode 1 -->
 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ABWCq8j8qys"
+  src="https://www.youtube.com/embed/-4Wobe5UB5M"
   title="YouTube video"
   frameborder="0"
   allowfullscreen>
@@ -38,7 +38,7 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 
 ### L'espace
 
-L'espace réel sera une salle obscure avec une projection au mur et, dans la projection qui deviendra l'espace virtuel, un ciel vivant en temps réel sera projeté, cela va créer un univers partager parmi les utilisateurs. L'espace est partagé autant dans l'espace réel et virtuel.
+L’espace réel est une salle obscure avec une projection murale. Cette projection devient un espace virtuel en affichant un ciel vivant en temps réel. Les participants partagent une même expérience, à la fois physique et numérique, créant un univers commun où le réel et le virtuel se rejoignent et se prolongent mutuellement.
 
 
 <!-- 
@@ -71,32 +71,30 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  En sciences sociales, le social englobe l’étude des phénomènes collectifs, des interactions humaines, des normes sociales et des dynamiques de pouvoir au sein de la société.
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
-L’aspect social est représenté par le lien symbolique entre les participants. En se connectant par les étoiles, chacun devient conscient de son rôle dans un réseau plus vaste. L’œuvre représente la manière dont nos interactions, même petites, tissent des relations invisibles qui renforcent le sentiment d’appartenance à une communauté. L'oeuvre illustre à la fois la beauté et la fragilité des liens humains.
+L’aspect social est représenté par le lien symbolique entre les participants. "Nous" créons un espace où chaque geste individuel prend sens à travers les autres. Ensemble, les participants bâtissent une constellation commune, visible uniquement par la coopération. L'oeuvre illsutre coment nos actions isolées peuvent s’unir pour former une structure collective plus grande que nous-mêmes. En se connectant par les étoiles, chacun devient conscient de son rôle dans un réseau plus vaste. L’oeuvre représente la manière dont nos interactions, même petites, tissent des relations invisibles qui renforcent le sentiment d’appartenance à une communauté. L'oeuvre illustre à la fois la beauté et la fragilité des liens humains.
 
 ## Inspirations
 
 ### Inspirations visuelles et sonores
 
-Moodboard
-
-* [![Moodboard]( moodboard1.webp)]
+![Moodboard général du projet]( moodboard1.webp)
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
 Inspirations
 
-* [![Inspiration]( moodboard2.webp)]
-###### source : [source](https://www.emptymirrorbooks.com/visual-art/ryoji-ikeda-continuum)
-* [![Inspiration]( moodboard3.webp)]
-###### source : [source](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
-* [![Inspiration]( moodboard4.webp)]
-###### source : [source](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
-* [![Inspiration]( moodboard5.webp)]
-###### source : [source](https://www.bitforms.art/artwork/path-b)
-* [![Inspiration]( moodboard6.webp)]
-###### source : [source](https://www.ryojiikeda.com/project/datamatics/)
-* [![Inspiration]( moodboard7.webp)]
-###### source : [source](https://www.spiral.co.jp/topics/ryoji-ikeda-concert-pieces-2)
+[![Inspiration d'environnement réel de l'expérience, Source : Ryoji Ikeda - Continuum](moodboard2.webp)](https://www.emptymirrorbooks.com/visual-art/ryoji-ikeda-continuum)
+
+[![Inspiration — Network B a-k-a Process 4 (REAS) — DMA UCLA](moodboard3.webp)](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
+
+[![Inspiration — Network B a-k-a Process 4 (REAS) — DMA UCLA](moodboard4.webp)](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
+
+[![Inspiration — Path B (bitforms)](moodboard5.webp)](https://www.bitforms.art/artwork/path-b)
+
+[![Inspiration — Datamatics (ryoji ikeda)](moodboard6.webp)](https://www.ryojiikeda.com/project/datamatics/)
+
+[![Inspiration — Concert Pieces 2 (Spiral) — Ryoji Ikeda](moodboard7.webp)](https://www.spiral.co.jp/topics/ryoji-ikeda-concert-pieces-2)
+
 
 Ambiance sonore
 [ambiance1.mp3](ambiance1.mp3) - Inspiration d'ambiance de fond lorsque peu d'étoiles présentes
