@@ -26,6 +26,10 @@
 
 ### Le parcours de l'interacteur
 
+L'interacteur aperçoit une toile, lorsqu'il touchera la toile, une étoile la représentant apparaîtra, lorsqu'une autre personne interagira avec la toile et fera apparaître une deuxième étoile, une connexion sera créée entre ses deux étoiles.
+
+
+
 <!-- 
 Comportement de l’interacteur
 Qu'est-ce que fait l'interacteur?
