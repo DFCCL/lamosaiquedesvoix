@@ -77,7 +77,27 @@ L’aspect social est représenté par le lien symbolique entre les participants
 
 ### Inspirations visuelles et sonores
 
+Moodboard
+
+* [![Moodboard]( moodboard1.webp)]
+
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
+
+Inspirations
+
+* [![Inspiration]( moodboard2.webp)]
+###### source : [source](https://www.emptymirrorbooks.com/visual-art/ryoji-ikeda-continuum)
+* [![Inspiration]( moodboard3.webp)]
+###### source : [source](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
+* [![Inspiration]( moodboard4.webp)]
+###### source : [source](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
+* [![Inspiration]( moodboard5.webp)]
+###### source : [source](https://www.bitforms.art/artwork/path-b)
+* [![Inspiration]( moodboard6.webp)]
+###### source : [source](https://www.ryojiikeda.com/project/datamatics/)
+* [![Inspiration]( moodboard7.webp)]
+###### source : [source](https://www.spiral.co.jp/topics/ryoji-ikeda-concert-pieces-2)
+
 
 <!--
 Images inspirantes
