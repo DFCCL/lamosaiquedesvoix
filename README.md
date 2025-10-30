@@ -1,7 +1,7 @@
-# Titre du projet
+# La mosaïque du projet
 
 <!-- Bannderole / Bande-annonce -->
-![]( https://placehold.co/600x400?text=banderole-bande-annonce)
+![]( accueil.webp)
 
 ## Description
 
