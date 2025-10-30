@@ -124,6 +124,12 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 ## Scénarimage
 
+* [![Scénarimage]( scenarimage1.webp)]
+* [![Scénarimage]( scenarimage2.webp)]
+* [![Scénarimage]( scenarimage3.webp)]
+* [![Scénarimage]( scenarimage4.webp)]
+* [![Scénarimage]( scenarimage5.webp)]
+
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
 
 <!--
