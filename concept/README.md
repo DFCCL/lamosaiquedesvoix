@@ -83,25 +83,25 @@ L’aspect social est représenté par le lien symbolique entre les participants
 
 Inspirations
 
-[![Inspiration d'environnement réel de l'expérience, Source : Ryoji Ikeda - Continuum](moodboard2.webp)](https://www.emptymirrorbooks.com/visual-art/ryoji-ikeda-continuum)
+[![Inspiration d'environnement réel de l'expérience, source : Ryoji Ikeda - Continuum](moodboard2.webp)](https://www.emptymirrorbooks.com/visual-art/ryoji-ikeda-continuum)
 
-[![Inspiration — Network B a-k-a Process 4 (REAS) — DMA UCLA](moodboard3.webp)](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
+[![Inspiration d'étoiles, source : Casey Reas - Network B a-k-a Process 4](moodboard3.webp)](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
 
-[![Inspiration — Network B a-k-a Process 4 (REAS) — DMA UCLA](moodboard4.webp)](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
+[![Inspiration d'étoiles + lien, source : Casey Reas - Network B a-k-a Process 4](moodboard4.webp)](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
 
-[![Inspiration — Path B (bitforms)](moodboard5.webp)](https://www.bitforms.art/artwork/path-b)
+[![Inspiration d'ambiance esthétique générale, source : Casey Reas - Path B)](moodboard5.webp)](https://www.bitforms.art/artwork/path-b)
 
-[![Inspiration — Datamatics (ryoji ikeda)](moodboard6.webp)](https://www.ryojiikeda.com/project/datamatics/)
+[![Inspiration d'ambiance esthétique générale, source : Ryoji Ikeda - datamatics](moodboard6.webp)](https://www.ryojiikeda.com/project/datamatics/)
 
-[![Inspiration — Concert Pieces 2 (Spiral) — Ryoji Ikeda](moodboard7.webp)](https://www.spiral.co.jp/topics/ryoji-ikeda-concert-pieces-2)
+[![Inspiration d'ambiance esthétique générale, source : Ryoji Ikeda - data.tron](moodboard7.webp)](https://www.spiral.co.jp/topics/ryoji-ikeda-concert-pieces-2)
 
 
 Ambiance sonore
-[ambiance1.mp3](ambiance1.mp3) - Inspiration d'ambiance de fond lorsque peu d'étoiles présentes
-[ambiance2.mp3](ambiance2.mp3) - Inspiration d'ambiance de fond lorsque constellation grande (beaucoup d'étoiles)
-[ambiance3.mp3](ambiance3.mp3) - Inspiration d'ambiance de fond lorsque constellation grande (beaucoup d'étoiles)
-[connexion.mp3](connexion.mp3) - Inspiration de son lorsque des étoiles tissent des liens
-[etoiles.mp3](etoiles.mp3) - Inspiration de son lorsque une étoile apparait
+[Inspiration d'ambiance de fond lorsque peu d'étoiles présentes](ambiance1.mp3)
+[Inspiration d'ambiance de fond/harmonie lorsque peu d'étoiles présentes](ambiance2.mp3)
+[Inspiration d'ambiance de fond/harmomie lorsque peu d'étoiles présentes](ambiance3.mp3)
+[Inspiration de son lorsque des étoiles tissent des liens](connexion.mp3)
+[Inspiration de son lorsque une étoile apparait](etoiles.mp3)
 
 <!--
 Images inspirantes
@@ -128,11 +128,11 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 ## Scénarimage
 
-* [![Scénarimage]( scenarimage1.webp)]
-* [![Scénarimage]( scenarimage2.webp)]
-* [![Scénarimage]( scenarimage3.webp)]
-* [![Scénarimage]( scenarimage4.webp)]
-* [![Scénarimage]( scenarimage5.webp)]
+![Une personne approche l'oeuvre, se rapproche de la toile, la touche]( scenarimage1.webp)
+![Une étoile (avec un numéro logique et sa couleur selon la personne) est projetée dans l'espace, la personne contemple son étoile, une autre personne arrive]( scenarimage2.webp)
+![L'autre personne touche la toile, une deuxième étoile apparait (avec le numéro suivant logique, une couleur différente) et est projetée dans l'espace]( scenarimage3.webp)
+![Un lien se tisse entre les deux étoiles. Plusieurs autres personnes se joignent à l'expérience.]( scenarimage4.webp)
+![Elles touchent toutes à la toile, plusieurs autres étoiles apparaissent, avec des liens se tissant entre eux]( scenarimage5.webp)
 
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
 
