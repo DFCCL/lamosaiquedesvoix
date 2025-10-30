@@ -47,7 +47,7 @@ description de l'espace réel et virtuel du projet et comment l'espace réel est
 
 ### La progression
 
-<!--  sur le temps et la progression -->
+La progression dépend du collectif. Chaque nouvelle personne qui intéragit avec la toile prolonge la durée de vie de la constellation, tandis que l’absence la fait disparaître. Le temps devient ainsi le reflet de l’activité humaine. La progression n’est pas imposée, mais important pour la vie de l'oeuvre. La progression naît de la participation et s’éteint avec elle. L’oeuvre évoque une perception à la fois subjective et collective du temps, où chaque geste compte pour maintenir l’existence du tout.
 
 ### L'aspect collectif
 
@@ -59,6 +59,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Il peut s'agir d'une réunion informelle ou contractuelle, temporaire ou durable, constituée autour d'une cause, d'une action ou d'un projet, qu'il soit artistique, politique, professionnel, moral ou cultuel.
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
+La mosaïque des voix repose entièrement sur la participation collective. Chaque personne qui interagit ajoute un point lumineux au système, contribuant ainsi à l’expansion de la constellation. Plus il y a de participants, plus la constellation s'agrandit. Plus la constellation est grande, plus elle se prolonge dans le temps. Le collectif devient ici le moteur même de l’expérience : sans les autres, la constellation ne peut ni grandir ni exister. L’oeuvre met en valeur la force du « nous », une création née de la cohabitation des autres personnes dans l'espace commun.
 
 ### L'aspect social
 
@@ -70,6 +71,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  En sciences sociales, le social englobe l’étude des phénomènes collectifs, des interactions humaines, des normes sociales et des dynamiques de pouvoir au sein de la société.
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
+L’aspect social est représenté par le lien symbolique entre les participants. En se connectant par les étoiles, chacun devient conscient de son rôle dans un réseau plus vaste. L’œuvre représente la manière dont nos interactions, même petites, tissent des relations invisibles qui renforcent le sentiment d’appartenance à une communauté. L'oeuvre illustre à la fois la beauté et la fragilité des liens humains.
 
 ## Inspirations
 
