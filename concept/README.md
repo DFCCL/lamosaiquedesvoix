@@ -98,6 +98,12 @@ Inspirations
 * [![Inspiration]( moodboard7.webp)]
 ###### source : [source](https://www.spiral.co.jp/topics/ryoji-ikeda-concert-pieces-2)
 
+Ambiance sonore
+[ambiance1.mp3](ambiance1.mp3) - Inspiration d'ambiance de fond lorsque peu d'étoiles présentes
+[ambiance2.mp3](ambiance2.mp3) - Inspiration d'ambiance de fond lorsque constellation grande (beaucoup d'étoiles)
+[ambiance3.mp3](ambiance3.mp3) - Inspiration d'ambiance de fond lorsque constellation grande (beaucoup d'étoiles)
+[connexion.mp3](connexion.mp3) - Inspiration de son lorsque des étoiles tissent des liens
+[etoiles.mp3](etoiles.mp3) - Inspiration de son lorsque une étoile apparait
 
 <!--
 Images inspirantes
