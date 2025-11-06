@@ -123,7 +123,9 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 ### Inspirations interactives
 
-<!-- Inclure des liens et une ligne sur pourquoi -->
+[![Rhizomatique](rhizomatique.webp)](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)
+Rhizomatique nous a grandement inspiré au niveau de l'intéractivité et la logique de celle-ci. Notre projet reprend le concept d'appuyer sur une toile afin de créer un résultat. Appuyer sur une toile comme façon d'intéraction avec l'expérience dans le but de recevoir des données dans l'ordinateur était original, chose qui nous a grandement inspiré.
+
 
 
 ## Scénarimage
