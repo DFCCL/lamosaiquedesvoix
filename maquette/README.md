@@ -45,22 +45,29 @@ graph LR
 ## Scénarisation de l'interactivité
  
 #### Scène 1
- 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
-|--------------|----------------------------|--------------|--------------|------------------|
-| **Toucher** | Le visiteur touche la toile avec sa main | Une étoile apparaît au contact de la toile, créant un effet de scintillement | Une note discrète est émise | L’installation capte la position du toucher et projette l'interaction en une étoile lumineuse dans la projection |
- 
+| ------- | ------- | ------- | ------- | ------- |
+| **Toucher**              | Une main entre en contact avec la toile | Une étoile apparaît à l’endroit précis du toucher et émet une lueur | Note douce courte se déclenche à chaque contact | La main est détectée comme unité active, enregistrant sa position dans l’espace de la toile  |
+| **Maintenir** | La main reste immobile sur la surface | L’étoile devient plus brillante | La note s’allonge, devient vibrante | Le système stabilise la position et augmente l’intensité lumineuse selon la durée du contact |
+| **Relâcher** | La main se retire de la surface | L’étoile reste visible mais cesse de pulser (disaparait au bout de 1 min si aucun toucher; scène 3) | Le son s’éteint progressivement | Passage à la scène 2 si une autre main entre en interaction |
+
 #### Scène 2
  
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
-|--------------|----------------------------|--------------|--------------|------------------|
-| **Toucher** | Un second visiteur touche la toile | Une nouvelle étoile apparaît et se connecte visuellement à l’étoile précédente par un filament de lumière | Un son harmonique s’élève, un peu plus riche et en harmonie avec le premier, symbolisant la connexion | Le système reconnaît la connexion entre les étoiles et renforce la présence de la constellation |
+| ------- | ------- | ------- | ------- | ------- |
+| **Toucher simultané** | Trois ou plusieurs mains sont détectées en même temps | Les étoiles se relient entre elles par des filaments lumineux | Des harmonies s’ajoutent | Le système relie les points de contact pour former une structure de constellation |
+| **Déplacer**  | Une main glisse légèrement sur la toile | Le filament entre les étoiles se déforme en suivant le mouvement | Le son ondule avec la trajectoire du mouvement | Le réseau devient fluide et réactif, suivant la dynamique des mains |
+| **Toucher**  | Une nouvelle main touche la toile | Une nouvelle étoile s’ajoute à la constellation existante | Une nouvelle couche sonore s’intègre | La constellation grandit et devient plus complexe |
+| **Retirer** | Une ou plusieurs mains se retirent | Les liens se brisent doucement et les étoiles concernées s’éteignent lentement | La couche sonore correspondante s’éteint | Si toutes les mains disparaissent, passage à la scène 3 |
+
  
 #### Scène 3
  
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
-|--------------|----------------------------|--------------|--------------|------------------|
-| **Inactivité** | Absence d'interaction avec la toile pendant un certain moment | Dépendamment de la densité collective, les étoiles commencent à s’éteindre lentement | Le son de l’espace devient plus distant et se calme | Le système détecte l'absence d'interaction et prépare la disparition des étoiles |
+| ------- | ------- | ------- | ------- | ------- |
+| **Inactivité** | Aucune main n’interagit avec la toile pendant 1 minute | Les étoiles s’éteignent graduellement jusqu’à disparaître dans le noir | Le son devient léger, couche par couche le son faiblit | Le système “oublie” lentement la constellation, retour à l’état initial (néant) |
+| **Toucher** | Une main touche de nouveau la toile après extinction | Une première étoile apparait au point de contact| Une note pure relance la séquence sonore | Retour à la scène 1, cycle relancé |
+
 
 ## Équipements requis
 #### Audio
@@ -113,8 +120,8 @@ graph LR
 | Objet| Descritpion | Prix | URL/Provenance |
 | ------ | ------ | ------ | ------ |
 | Toile spandex | Toile en spandex qui sera l'élément principal de l'intéraction | 29$/0.9m | [Amazon](https://www.amazon.ca/Nylon-Spandex-Fabric-Yard-Activewear/dp/B0FKBBH6LN)|
-| Bois traité | Pour construire le cadre de la toile | ~5$/p2 | [Rona](https://www.rona.ca/fr/produit/1-po-x-6-po-x-8-pi-bois-traite-brun-b4f-761-62892-84895013) |
+| Bois traité | Pour construire le cadre de la toile | ~5$/planche | [Rona](https://www.rona.ca/fr/produit/1-po-x-6-po-x-8-pi-bois-traite-brun-b4f-761-62892-84895013) |
 | Peinture | Peinture pour peinturer la structure qui servira de cadre à la toile | 35$/950ml | [HomeDepot](https://www.homedepot.ca/produit/rust-oleum-painter-s-touch-peinture-multi-usages-en-noir-mat-946-ml/1000155179) |
 | Pinceau | Pour peinturer la structure | ~4$/pinceau   | [HomeDepot](https://www.homedepot.ca/produit/hdg-pinceau-a-peinture-a-copeaux-plats-de-2-pouces-50-8-mm-de-largeur-paquet-de-1-/1000738776) |
 |  |  |  | |
-| Total | ~100$ |
+| Total | ~150$ |

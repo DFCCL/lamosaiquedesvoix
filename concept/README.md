@@ -26,7 +26,7 @@
 
 ### Le parcours de l'interacteur
 
-L'interacteur aperçoit une toile, lorsqu'il touchera la toile, une étoile la représentant apparaîtra, lorsqu'une autre personne interagira avec la toile et fera apparaître une deuxième étoile, une connexion sera créée entre ses deux étoiles.
+L’interacteur découvre une toile et y pose sa main. Une étoile apparaît là où il touche, projettée sur une projection murale. En posant sa deuxième main, une autre étoile se crée et se relie à la première. Chaque nouvelle main qui entre en contact avec la toile, qu’elle soit de la même personne ou d’un autre participant, contribue à étendre le réseau d’étoiles, créant ainsi une constellation collective et vivante.
 
 
 
@@ -59,7 +59,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Il peut s'agir d'une réunion informelle ou contractuelle, temporaire ou durable, constituée autour d'une cause, d'une action ou d'un projet, qu'il soit artistique, politique, professionnel, moral ou cultuel.
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
-La mosaïque des voix repose entièrement sur la participation collective. Chaque personne qui interagit ajoute un point lumineux au système, contribuant ainsi à l’expansion de la constellation. Plus il y a de participants, plus la constellation s'agrandit. Plus la constellation est grande, plus elle se prolonge dans le temps. Le collectif devient ici le moteur même de l’expérience : sans les autres, la constellation ne peut ni grandir ni exister. L’oeuvre met en valeur la force du « nous », une création née de la cohabitation des autres personnes dans l'espace commun.
+L'expérience repose entièrement sur la participation collective. Chaque personne qui interagit avec ses mains ajoute une étoile au système, contribuant ainsi à l’expansion de la constellation. Plus il y a de participants, plus la constellation s'agrandit. Plus la constellation est grande, plus elle se prolonge dans le temps. Le collectif devient ici le moteur même de l’expérience : sans les autres, la constellation ne peut ni grandir ni perdurer. L’oeuvre met en valeur la force du « nous », une création née de la cohabitation des autres personnes dans l'espace commun.
 
 ### L'aspect social
 
@@ -71,7 +71,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  En sciences sociales, le social englobe l’étude des phénomènes collectifs, des interactions humaines, des normes sociales et des dynamiques de pouvoir au sein de la société.
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
-L’aspect social est représenté par le lien symbolique entre les participants. "Nous" créons un espace où chaque geste individuel prend sens à travers les autres. Ensemble, les participants bâtissent une constellation commune, visible uniquement par la coopération. L'oeuvre illsutre coment nos actions isolées peuvent s’unir pour former une structure collective plus grande que nous-mêmes. En se connectant par les étoiles, chacun devient conscient de son rôle dans un réseau plus vaste. L’oeuvre représente la manière dont nos interactions, même petites, tissent des relations invisibles qui renforcent le sentiment d’appartenance à une communauté. L'oeuvre illustre à la fois la beauté et la fragilité des liens humains.
+L’aspect social est représenté par le lien symbolique entre les participants. "Nous" créons un espace où chaque geste individuel prend sens à travers les autres. Ensemble, les participants bâtissent une constellation commune, visible uniquement par la coopération. L'oeuvre illustre coment nos actions isolées peuvent s’unir pour former une structure collective plus grande que nous-mêmes. En se connectant par les étoiles, chacun devient conscient de son rôle dans un réseau plus vaste. L’oeuvre représente la manière dont nos interactions, même petites, tissent des relations invisibles qui renforcent le sentiment d’appartenance à une communauté. L'oeuvre illustre à la fois la beauté et la fragilité des liens humains.
 
 ## Inspirations
 
@@ -131,8 +131,8 @@ Rhizomatique nous a grandement inspiré au niveau de l'intéractivité et la log
 ## Scénarimage
 
 ![Une personne approche l'oeuvre, se rapproche de la toile, la touche]( scenarimage1.webp)
-![Une étoile (avec un numéro logique et sa couleur selon la personne) est projetée dans l'espace, la personne contemple son étoile, une autre personne arrive]( scenarimage2.webp)
-![L'autre personne touche la toile, une deuxième étoile apparait (avec le numéro suivant logique, une couleur différente) et est projetée dans l'espace]( scenarimage3.webp)
+![Une étoile est projetée dans l'espace, la personne contemple son étoile, une autre personne arrive]( scenarimage2.webp)
+![L'autre personne touche la toile, une deuxième étoile apparait et est projetée dans l'espace]( scenarimage3.webp)
 ![Un lien se tisse entre les deux étoiles. Plusieurs autres personnes se joignent à l'expérience.]( scenarimage4.webp)
 ![Elles touchent toutes à la toile, plusieurs autres étoiles apparaissent, avec des liens se tissant entre eux]( scenarimage5.webp)
 
