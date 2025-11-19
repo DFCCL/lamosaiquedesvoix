@@ -10,7 +10,9 @@
   title="YouTube video"
   frameborder="0"
   allowfullscreen>
-</iframe>
+</iframe>  
+    
+La mosaïque des voix est une installation interactive où chaque main posée sur une toile déclenche un point lumineux qui se relie aux autres, formant une constellation en évolution. L’oeuvre révèle comment des gestes individuels tissent une communauté, où chacun devient une lumière parmi les autres.
 
 <!-- Méthode 2, plug legit -->
 <!-- 
