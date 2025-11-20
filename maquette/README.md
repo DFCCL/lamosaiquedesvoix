@@ -55,17 +55,17 @@ graph LR
  
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | ------- | ------- | ------- | ------- | ------- |
-| **Toucher simultané** | Trois ou plusieurs mains sont détectées en même temps | Les étoiles se relient entre elles par des filaments lumineux | Des harmonies s’ajoutent | Le système relie les points de contact pour former une structure de constellation |
+| **Toucher simultané** | Deux ou plusieurs mains sont détectées en même temps | Les étoiles se relient entre elles par des filaments lumineux, **chaque étoile tisse un lien avec chaque autre étoile sans exception.** | Des harmonies s’ajoutent | Le système relie les points de contact pour former une structure de constellation |
 | **Déplacer**  | Une main glisse légèrement sur la toile | Le filament entre les étoiles se déforme en suivant le mouvement | Le son ondule avec la trajectoire du mouvement | Le réseau devient fluide et réactif, suivant la dynamique des mains |
-| **Toucher**  | Une nouvelle main touche la toile | Une nouvelle étoile s’ajoute à la constellation existante | Une nouvelle couche sonore s’intègre | La constellation grandit et devient plus complexe |
-| **Retirer** | Une ou plusieurs mains se retirent | Les liens se brisent doucement et les étoiles concernées s’éteignent lentement | La couche sonore correspondante s’éteint | Si toutes les mains disparaissent, passage à la scène 3 |
+| **Toucher**  | Une nouvelle main touche la toile | Une nouvelle étoile s’ajoute à la constellation existante, les autres étoiles tissent un lien avec elle. | Une nouvelle couche sonore s’intègre | La constellation grandit et devient plus complexe |
+| **Retirer** | Une ou plusieurs mains se retirent | Les liens se brisent doucement et les étoiles concernées s’éteignent lentement<br><br> (1 min jusqu'au fade out complet) | La couche sonore correspondante s’éteint | Si toutes les mains disparaissent, passage à la scène 3 |
 
  
 #### Scène 3
  
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | ------- | ------- | ------- | ------- | ------- |
-| **Inactivité** | Aucune main n’interagit avec la toile pendant 1 minute | Les étoiles s’éteignent graduellement jusqu’à disparaître dans le noir | Le son devient léger, couche par couche le son faiblit | Le système “oublie” lentement la constellation, retour à l’état initial (néant) |
+| **Inactivité** | Aucune main n’interagit avec la toile pendant une minute | Les étoiles s’éteignent graduellement jusqu’à disparaître dans le noir. Chaque étoile met environ une minute à s’éteindre, selon le temps écoulé depuis sa création. | Le son devient léger, couche par couche le son faiblit | Le système “oublie” lentement la constellation, retour à l’état initial (néant) |
 | **Toucher** | Une main touche de nouveau la toile après extinction | Une première étoile apparait au point de contact| Une note pure relance la séquence sonore | Retour à la scène 1, cycle relancé |
 
 

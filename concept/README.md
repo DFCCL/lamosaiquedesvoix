@@ -61,7 +61,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Il peut s'agir d'une réunion informelle ou contractuelle, temporaire ou durable, constituée autour d'une cause, d'une action ou d'un projet, qu'il soit artistique, politique, professionnel, moral ou cultuel.
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
-L'expérience repose entièrement sur la participation collective. Chaque personne qui interagit avec ses mains ajoute une étoile au système, contribuant ainsi à l’expansion de la constellation. Plus il y a de participants, plus la constellation s'agrandit. Plus la constellation est grande, plus elle se prolonge dans le temps. Le collectif devient ici le moteur même de l’expérience : sans les autres, la constellation ne peut ni grandir ni perdurer. L’oeuvre met en valeur la force du « nous », une création née de la cohabitation des autres personnes dans l'espace commun.
+L'expérience repose entièrement sur la participation collective. Chaque personne qui interagit avec ses mains ajoute une étoile au système, contribuant ainsi à l’expansion de la constellation. Plus il y a de participants, plus la constellation s'agrandit. Plus la constellation est grande, plus elle se prolonge dans le temps. Le collectif devient ici le moteur même de l’expérience : sans les autres, la constellation ne peut ni grandir ni perdurer. L’oeuvre met en valeur la force du « nous », une création née de la cohabitation des autres personnes dans l'espace commun. L'oeuvre repose sur la participation de plusieurs mains : chaque main posée sur la toile crée une étoile. Lorsque plusieurs personnes touchent la toile en même temps, leurs étoiles se relient et forment une constellation collective. Plus il y a de participants, plus la constellation grandit. L’oeuvre existe donc grâce au groupe : c’est la présence des autres qui permet réellement de créer la forme finale.
 
 ### L'aspect social
 
@@ -73,7 +73,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  En sciences sociales, le social englobe l’étude des phénomènes collectifs, des interactions humaines, des normes sociales et des dynamiques de pouvoir au sein de la société.
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
-L’aspect social est représenté par le lien symbolique entre les participants. "Nous" créons un espace où chaque geste individuel prend sens à travers les autres. Ensemble, les participants bâtissent une constellation commune, visible uniquement par la coopération. L'oeuvre illustre coment nos actions isolées peuvent s’unir pour former une structure collective plus grande que nous-mêmes. En se connectant par les étoiles, chacun devient conscient de son rôle dans un réseau plus vaste. L’oeuvre représente la manière dont nos interactions, même petites, tissent des relations invisibles qui renforcent le sentiment d’appartenance à une communauté. L'oeuvre illustre à la fois la beauté et la fragilité des liens humains.
+L’aspect social est représenté par le lien symbolique entre les participants. "Nous" créons un espace où chaque geste individuel prend sens à travers les autres. Ensemble, les participants bâtissent une constellation commune, visible uniquement par la coopération. L'oeuvre illustre coment nos actions isolées peuvent s’unir pour former une structure collective plus grande que nous-mêmes. En se connectant par les étoiles, chacun devient conscient de son rôle dans un réseau plus vaste. L’oeuvre représente la manière dont nos interactions, même petites, tissent des relations invisibles qui renforcent le sentiment d’appartenance à une communauté. L'oeuvre illustre à la fois la beauté et la fragilité des liens humains. La constellation sert à représenter visuellement les liens sociaux entre les participants. Chaque étoile symbolise une main individuelle, mais c’est seulement en se reliant aux autres qu’elle prend sens. La forme de la constellation montre que nos gestes isolés deviennent une création commune grâce aux autres. L'oeuvre envoie un message de "l'ensemble est construit uniquement par la coopération humaine".
 
 ## Inspirations
 
@@ -86,6 +86,8 @@ L’aspect social est représenté par le lien symbolique entre les participants
 Inspirations
 
 [![Inspiration d'environnement réel de l'expérience, source : Ryoji Ikeda - Continuum](moodboard2.webp)](https://www.emptymirrorbooks.com/visual-art/ryoji-ikeda-continuum)
+
+![Inspiration **concrète** d'étoiles + liens entre celles-ci, source : Ryan Dufault](moodboard8.webp)
 
 [![Inspiration d'étoiles, source : Casey Reas - Network B a-k-a Process 4](moodboard3.webp)](https://gallery.dma.ucla.edu/filter/software/reas/Network-B-a-k-a-Process-4-Installation-3)
 
@@ -136,7 +138,9 @@ Rhizomatique nous a grandement inspiré au niveau de l'intéractivité et la log
 ![Une étoile est projetée dans l'espace, la personne contemple son étoile, une autre personne arrive]( scenarimage2.webp)
 ![L'autre personne touche la toile, une deuxième étoile apparait et est projetée dans l'espace]( scenarimage3.webp)
 ![Un lien se tisse entre les deux étoiles. Plusieurs autres personnes se joignent à l'expérience.]( scenarimage4.webp)
-![Elles touchent toutes à la toile, plusieurs autres étoiles apparaissent, avec des liens se tissant entre eux]( scenarimage5.webp)
+![Elles touchent toutes à la toile, plusieurs autres étoiles apparaissent, avec des liens se tissant entre eux, **chaque étoile tisse un lien avec chaque autre étoile sans exception.**]( scenarimage5.png)
+![Des personnes retirent leurs mains et s'en vont; les liens fait entre ces étoiles disparaissents. Les étoiles des personnes qui se sont retirés disparaissent progressivement. Une personne bouge sa main sur la toile.]( scenarimage6.webp)
+![L'étoile de la personne bouge selon la position de la main sur la toile. Tout le monde retire leurs mains de la toile et s'en vont; les liens fait entre ces étoiles disparaissent. Les étoiles des personnes qui se sont retirés disparaissent progressivement (~1 min jusqu'à fade out complet, dépendement de quand ils se sont retirés)]( scenarimage6.webp)
 
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
 
