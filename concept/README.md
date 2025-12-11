@@ -141,7 +141,7 @@ NodeBeat nous a inspiré au niveau de l'esthétisme et de la ressemblance. Notre
 ![Un lien se tisse entre les deux étoiles. Plusieurs autres personnes se joignent à l'expérience.]( scenarimage4.webp)
 ![Elles touchent toutes à la toile, plusieurs autres étoiles apparaissent, avec des liens se tissant entre eux, **chaque étoile tisse un lien avec chaque autre étoile sans exception.**]( scenarimage5.png)
 ![Des personnes retirent leurs mains et s'en vont; les liens fait entre ces étoiles disparaissents. Les étoiles des personnes qui se sont retirés disparaissent progressivement. Une personne bouge sa main sur la toile.]( scenarimage6.webp)
-![L'étoile de la personne bouge selon la position de la main sur la toile. Tout le monde retire leurs mains de la toile et s'en vont; les liens fait entre ces étoiles disparaissent. Les étoiles des personnes qui se sont retirés disparaissent progressivement (~1 min jusqu'à fade out complet, dépendement de quand ils se sont retirés)]( scenarimage6.webp)
+![L'étoile de la personne bouge selon la position de la main sur la toile. Tout le monde retire leurs mains de la toile et s'en vont; les liens fait entre ces étoiles disparaissent. Les étoiles des personnes qui se sont retirés disparaissent progressivement (~1 min jusqu'à fade out complet, dépendement de quand ils se sont retirés)]( scenarimage7.webp)
 
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
 
